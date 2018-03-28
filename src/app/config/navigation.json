@@ -19,6 +19,12 @@
       "isRouteBtn": true
     },
     {
+      "label":      "Leads",
+      "link":       "/leads",
+      "view":       "leads",
+      "isRouteBtn": true
+    },
+    {
       "label":      "Disconnect",
       "link":       "/login",
       "view":       "login",
